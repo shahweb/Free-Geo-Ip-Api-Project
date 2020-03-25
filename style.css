@@ -1,0 +1,63 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+#geoIp {
+  list-style: none;
+}
+
+.container {
+  width: 100%;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.btn-wrapper {
+  text-align: center;
+}
+
+#find-me {
+  margin: 20px;
+  box-shadow: inset 0px 0px 15px 3px #23395e;
+  background: linear-gradient(to bottom, #2e466e 5%, #415989 100%);
+  border-radius: 17px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  padding: 3px 70px;
+  text-decoration: none;
+
+}
+
+#refresh-me {
+  box-shadow: inset 0px 0px 15px 3px #ea4335;
+  background: linear-gradient(to bottom, #ea4335 5%, #ea4335 100%);
+  border-radius: 17px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  padding: 3px 70px;
+  text-decoration: none;
+
+}
+
+#map-link {
+  color: #a8346a;
+}
